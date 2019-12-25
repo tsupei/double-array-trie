@@ -1,0 +1,6 @@
+venv/
+dist/
+.idea/
+*.pyc
+setup.cfg
+*.pypirc
